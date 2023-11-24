@@ -1,0 +1,15 @@
+
+X-RapidAPI-Key : 2QMXSehDLSmshDmRQcKUIAiQjIZAp1UvKUrjsnewgqSP6F5oBX
+X-RapidAPI-Host : free-nba.p.rapidapi.com
+
+https://rapidapi.com/theapiguy/api/free-nba.
+
+The API used for this application can be found at:
+https://rapidapi.com/theapiguy/api/free-nba. Note that the API requires specific HTTP headers to be
+used with every request. You can use these credentials or create your key:
+headers:
+{
+'X-RapidAPI-Key':'2QMXSehDLSmshDmRQcKUIAiQjIZAp1UvKUrjsnewgqSP6F5oBX',
+'X-RapidAPI-Host': 'free-nba.p.rapidapi.com'
+} 
+
